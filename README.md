@@ -1,8 +1,8 @@
 # Adventure Ai
-[Visit us here!](https://www.adventureai.world)
-[Björn's Github](https://github.com/JSON-Bjorn)
-[Björn's LinkedIn](https://www.linkedin.com/in/bj%C3%B6rn-revell-712828354/)
-[Felix's Github](https://github.com/FelixSoderstrom)
+[Play the game!](https://www.adventureai.world) - 
+[Björn's Github](https://github.com/JSON-Bjorn) - 
+[Björn's LinkedIn](https://www.linkedin.com/in/bj%C3%B6rn-revell-712828354/) - 
+[Felix's Github](https://github.com/FelixSoderstrom) - 
 [Felix's LinkedIn](https://www.linkedin.com/in/felix-fryxell-s%C3%B6derstr%C3%B6m-b74552104/)
 
 ### We love open source!
